@@ -13,7 +13,7 @@ Therefore, this app is a first experience utilization of Streamlit framework and
 ## How to run it locally 
 ```
 pip install streamlit
-streamlit run [url of the code in GitHub]
+streamlit run https://github.com/Laura-Sangalli/Uber-pickups-in-NYC--first-Streamlit-project/blob/main/uber_pickups.py
 ```
 ## See the Documentation of Streamlit
 You can find it in [docs.streamlit.io](https://docs.streamlit.io/).\
